@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Pedro",
+        "cedula": "12345678",
+        "correo": "pedro@prueba.com"
+    },
+    {
+        "nombre": "Pablo",
+        "cedula": "87654321",
+        "correo": "pablo@test.com"
+    }
+]
